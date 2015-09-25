@@ -1,0 +1,21 @@
+html {
+    background: lightgreen;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    padding: 5%;
+}
+
+.yellow {
+    color: yellow;
+    font-size: 2em;
+}
+
+a {
+    text-decoration: none;
+}
