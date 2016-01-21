@@ -4,19 +4,13 @@ title: Games
 permalink: /games/
 ---
 
-Under Development
------------------
-
 # Multiversal
 
 * A puzzle platformer game where the goal is to reach the end of each level.
 * You can do this by solving various puzzles using a "window" into an alternate dimension.
 * The window is controlled with your mouse. Whatever is seen through the window instantly becomes part of the real world.
-* [Click here for a demo video](https://www.youtube.com/watch?v=msFEcX0TqVc)
-* [More information available here](https://github.com/ayebear/Multiversal)
-
-Finished
---------
+* [Click here for an old demo video](https://www.youtube.com/watch?v=msFEcX0TqVc)
+* [Download here](https://github.com/ayebear/multiversal)
 
 # Avalanche
 
@@ -25,9 +19,6 @@ Finished
 * You can get extra lives from health packs.
 * You can collect force fields, and press space to use them. They last 5 seconds.
 * [Download for Linux](https://dl.dropboxusercontent.com/u/10528991/downloads/Avalanche/Avalanche.tar.bz2) --- [Download for Windows](https://dl.dropboxusercontent.com/u/10528991/downloads/Avalanche/Avalanche.zip)
-
-Cancelled/On Hold
------------------
 
 # Undead MMO (on hold)
 
