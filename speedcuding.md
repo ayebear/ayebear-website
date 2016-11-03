@@ -10,16 +10,16 @@ permalink: /speedcubing/
 * [F2L](http://speedsolving.com/wiki/index.php/F2L)
 * [PLL](http://speedsolving.com/wiki/index.php/PLL)
 * [OLL](http://speedsolving.com/wiki/index.php/OLL)
-* [My PLL’s](http://dl.dropbox.com/u/10528991/cubing/1-look%20PLL.html)
-* [My OLL’s](http://dl.dropbox.com/u/10528991/cubing/1-look%20OLL.html)
+* [My PLL’s](/data/cubing/1-look%20PLL.html)
+* [My OLL’s](/data/cubing/1-look%20OLL.html)
 
 # Algorithms for other puzzles
-* [My Megaminx PLL’s](http://dl.dropbox.com/u/10528991/cubing/Megaminx%20LL%20algs.txt)
-* [My parity algorithms for big cubes](http://dl.dropbox.com/u/10528991/cubing/Parity%20algs.txt)
+* [My Megaminx PLL’s](/data/cubing/Megaminx%20LL%20algs.txt)
+* [My parity algorithms for big cubes](/data/cubing/Parity%20algs.txt)
 
 # Speedcubing Timer
 * This is an old AutoIt program I wrote years ago. I may rewrite a better version of this in the future that is cross-platform.
-* [Click here to download](https://dl.dropboxusercontent.com/u/10528991/downloads/Speedcubing%20Timer.zip)
+* [Click here to download](/downloads/speedcubing_timer.zip)
 
 # My Speedcubing Status
 * [Here is my WCA profile](https://www.worldcubeassociation.org/results/p.php?i=2012HEBE01) so you can see how slow I am at speedcubing.

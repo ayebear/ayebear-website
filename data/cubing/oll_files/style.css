@@ -1,0 +1,174 @@
+.center{
+  text-align:center;
+}
+
+a{
+  color: #006;
+}
+
+a img{
+	border: 0pt;
+}
+
+a.selected{
+	font-weight: bold;
+	color: #000;
+}
+
+big{
+	font-size:12pt;
+}
+
+body{
+  font-family: arial, sans-serif;
+  background-color: #DDE;
+	font-size: 9pt;
+}
+
+div.caption{
+  text-align:center;
+	font-size: 8pt;
+}
+
+div.quote{
+  color: #EEE;
+  font-size: 10pt;
+  font-weight: bold;
+  padding: 0pt 5pt 5pt 5pt;
+  margin: 0pt;
+}
+
+div.navigation{
+  background-color: #83A8FD;
+	background-image: url('images/bannersmall.png');
+	background-repeat:  repeat-y;
+	background-position: right;
+	margin-top: 2pt;
+	padding-bottom: 1pt;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+div.subnavigation{
+	font-size:8pt;
+  background-color: #a9c3fd;
+	background-image: url('images/bannersmall2.png');
+	background-repeat: repeat-y;
+	background-position: right;
+	padding-bottom: 1pt;
+	border-bottom: 1px solid black;
+}
+
+em{
+	font-weight: bold;
+}
+
+h1{
+  color: #FFF;
+  font-family: verdana, arial, sans-serif;
+  padding: 5pt;
+  margin: 0pt; 
+  font-size: 16pt;
+}
+
+img.border{
+ border: solid black 1px;
+}
+
+table.alg{  
+	border: solid black 1px;
+	font-family: courier;
+}
+
+table.border, table.bordersmall{
+	border: solid black 1px;	
+}
+
+table.border tr td, table.bordersmall tr td{
+  background-color: #EEF;
+  vertical-align: top;
+  text-align:left;
+  border: solid black 1px;
+}
+
+table.border tr.figures td, table.bordersmall tr.figures td{
+  text-align:right;
+}
+
+table.border tr td{
+  font-size: 9pt;
+}
+
+table.bordersmall tr td{
+  font-size: 7pt;
+}
+
+table.oneborder{
+  border: solid black 1px;
+}
+table.oneborder tr td{
+  border: 0pt;
+	background-color: #eef;
+	vertical-align: top;
+  font-size:9pt;
+}
+
+table tr.head td{
+	background-color: #AAF;
+	vertical-align: middle;
+  font-size: 10pt;
+  font-weight: bold;
+  text-align:center;
+}
+  
+table tr td.F{
+	background-color: #F00;
+  font-weight: bold;
+  text-align: center;
+}
+table tr td.B{
+background-color:#Fc0;
+  font-weight: bold;
+  text-align: center;
+}
+table tr td.R{
+	background-color: #0c0;
+  font-weight: bold;
+  text-align: center;
+}
+table tr td.L{
+	background-color: #66c;
+  text-align: center;
+  font-weight: bold;
+}
+table tr td.X{
+	background-color: #bbb;
+  text-align: center;
+  font-weight: bold;
+}  
+table tr td.O{
+	background-color: #EE8;
+  text-align: center;
+  font-weight: bold;
+}  
+
+table.footer tr td{
+  font-family: verdana, arial, sans-serif;
+  font-size: 8pt;
+	font-weight: bold;	
+  color: #000;
+  background-color: #88a;
+  border-top: solid black 1px;
+	vertical-align: center;	
+}
+
+table.head{
+  background-color: #88a;
+	background-image: url('images/banner.png');
+	background-repeat:  no-repeat;
+	background-position: right;
+  border-top: solid black 2px;
+  border-left: solid black 2px;
+  border-right: solid black 2px;  
+  border-bottom: solid black 2px;
+}

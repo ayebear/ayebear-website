@@ -1,0 +1,11 @@
+Note: B1 is on the left back and B2 is on the right back
+
+U perms:
+(R' U' F' U F R) (L F U F' U' L') - LU to RU to FU (cw)
+(R' U' R U') (R U R2' U) (R U' R U') (R' U2) - same as above
+(L U F U' F' R') (L' F' U' F U R) - LU to FU to RU (ccw)
+(U2' R) (U R' U R') (U' R2 U' R') (U R' U R) - same as above
+
+A perms:
+U2 R U R' U2 R' U' R U' R U' R' U2 R' U R - FRU to LB1U to FLU (ccw)
+R' U' R U2' R U R' U R' U R U2' R U' R' U2' - FRU to FLU to LB1U (cw)

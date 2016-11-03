@@ -1,0 +1,29 @@
+Notation
+
+l, r = Inner slice move
+Lw, Rw = Multiple layers
+L, R = Outer layers
+
+
+
+4x4x4
+
+PLL parity:
+r2 U2 r2 Uw2 r2 u2
+
+Alternate PLL parity:
+Uw2 Rw2 U2 r2 U2 Rw2 Uw2
+
+OLL parity:
+Rw U2 Rw x U2 r U2 x' l' U2 l U2 r' U2 r U2 Rw' U2 Rw'
+
+
+
+5x5x5
+
+Swap two edges on UF face:
+Rw2 B2 U2 Lw U2 Rw' U2 Rw U2 F2 Rw F2 Lw' B2 Rw2
+
+Swap two edges between UF and UB:
+Lw' U2 Lw' U2 F2 Lw' F2 Rw U2 Rw' U2 Lw2
+
