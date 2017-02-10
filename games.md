@@ -41,7 +41,7 @@ Changed from cloning/colors to transport mechanics in the last version:
 * It is currently on hold, but we may continue developing it in the near future.
 * [Source code and more information here](https://github.com/ayebear/UndeadMMO)
 
-![Undead MMO]({{ site.url }}/data/undead_mmo.png)
+![Undead MMO]({{ site.url }}/data/undead_mmo.jpg)
 
 # aMAZEd (cancelled)
 
