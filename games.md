@@ -55,7 +55,7 @@ permalink: /games/
 * Written in C++ with SFML
 * [Click here for a playthrough video](https://www.youtube.com/watch?v=NCFSuIPlOUI)
 
-![aMAZEd](http://i.imgur.com/jG453Hb.gifv)
+![aMAZEd](http://i.imgur.com/jG453Hb.gif)
 
 # Avalanche (2011)
 
@@ -65,4 +65,4 @@ permalink: /games/
 * Written in C++ with SFML
 * [Download for Linux]({{ site.url }}/data/Avalanche_Linux.tar.bz2) --- [Download for Windows]({{ site.url }}/data/Avalanche_Windows.exe) --- [Download source code]({{ site.url }}/data/Avalanche_Source.tar.bz2)
 
-![Avalanche]({{ site.url }}/data/avalanche.png)
+![Avalanche]({{ site.url }}/data/avalanche.jpg)
