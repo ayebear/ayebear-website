@@ -10,11 +10,14 @@ permalink: /games/
 * Written in JavaScript ES6 with Pixi.js
 * [Play it here](http://ayebear.com/project-square/)
 
-#### Level with cloning/color mechanics:
-![Project Square]({{ site.url }}/data/posts/cloning_color_mechanics.gif)
+#### Time travel level:
+![Project Square]({{ site.url }}/data/ps_time_level.gif)
 
-#### Level with transport mechanics:
-![Project Square]({{ site.url }}/data/transport_multiple_vehicles.gif)
+#### Vehicle level:
+![Project Square]({{ site.url }}/data/ps_vehicle_level.gif)
+
+#### Cloning/color level (previous prototype):
+![Project Square]({{ site.url }}/data/posts/cloning_color_mechanics.gif)
 
 # You Are The Virus (2015)
 
