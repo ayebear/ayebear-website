@@ -66,6 +66,6 @@ permalink: /games/
 * You can get extra lives from health packs.
 * You can collect force fields, and press space to use them. They last 5 seconds.
 * Written in C++ with SFML
-* [Download for Linux]({{ site.url }}/data/Avalanche_Linux.tar.bz2) --- [Download for Windows]({{ site.url }}/data/Avalanche_Windows.exe) --- [Download source code]({{ site.url }}/data/Avalanche_Source.tar.bz2)
+* [Download for Linux]({{ site.url }}/data/Avalanche_Linux.tar.bz2) --- [Download for Windows]({{ site.url }}/data/Avalanche_Windows.zip) --- [Download source code]({{ site.url }}/data/Avalanche_Source.tar.bz2)
 
 ![Avalanche]({{ site.url }}/data/avalanche.jpg)
