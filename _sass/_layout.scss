@@ -240,7 +240,7 @@
  * Youtube Embed
  */
 .youtube-embed {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
-    height: auto;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+    height: 450px;
 }
