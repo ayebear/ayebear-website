@@ -5,9 +5,11 @@ date: 2018-05-11 23:00:00
 categories: gamedev
 ---
 
+Project square has evolved into quite an interesting game, so much that it really needs a new name.
+
 ### New Goal Blocks
 
-Project square has evolved into quite an interesting game, so much that it really needs a new name. The main goal blocks now have colored outlines, which must all match their center color, in order for the portal to open to solve the level. A black goal block means there is no color, so these replace the old "basic blocks", while also being a bit different. If one of these receive a different color, they will be unsolved, because their outline color does not match.
+The main goal blocks now have colored outlines, which must all match their center color, in order for the portal to open to solve the level. A black goal block means there is no color, so these replace the old "basic blocks", while also being a bit different. If one of these receive a different color, they will be unsolved, because their outline color does not match.
 
 This shows an example unsolved level with a bunch of different colored blocks:
 
@@ -25,7 +27,7 @@ This shows a laser-creating mirror block, going through a glass wall, into an an
 
 Another mechanic, which was actually added before all the color stuff, are blocks that control the toroidal offset of the world. This leads into interesting scenarios that open access to other areas of a level, as well as adjust where a laser beam could be going. This video was made before the floor portals update:
 
-<iframe width="800" height="450" src="//www.youtube.com/embed/2KVfWzFR-eU" frameborder="0" allowfullscreen></iframe>
+<iframe class="youtube-embed" src="//www.youtube.com/embed/2KVfWzFR-eU" frameborder="0" allowfullscreen></iframe>
 
 ### Floor Portals
 

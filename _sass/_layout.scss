@@ -234,3 +234,13 @@
         }
     }
 }
+
+
+/**
+ * Youtube Embed
+ */
+.youtube-embed {
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
+    height: auto;
+}
