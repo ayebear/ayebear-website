@@ -1,11 +1,10 @@
 # Site settings
 title: Development Blog
-email: eric@ayebear.com
 description: > # this means to ignore newlines until "baseurl:"
   A site where I show the progress of applications and games that I am currently developing.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ayebear.com" # the base hostname & protocol for your site
-github_username:  ayebear
+github_username: ayebear
 
 # Build settings
 markdown: kramdown
