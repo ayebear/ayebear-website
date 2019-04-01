@@ -4,11 +4,17 @@ title: Games
 permalink: /games/
 ---
 
-# Project Square (2016-2017)
+# Toroban (2019+)
 
-* A puzzle game with a mix of transport and time travel mechanics
+**[Main Website](https://toroban.com/)**
+
+A best effort attempt to create a finished product. The previous prototypes helped me learn what makes good puzzle games.
+
+# Project Square (2016-2018)
+
+* A collection of puzzle game prototypes
 * Written in JavaScript ES6 with Pixi.js
-* [Play it here](http://ayebear.com/project-square/)
+* [Play them here](https://ayebear.com/project-square/)
 
 #### Time travel level:
 ![Project Square]({{ site.url }}/data/ps_time_level.gif)
