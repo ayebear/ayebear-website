@@ -14,9 +14,15 @@ permalink: /games/
 
 #### MVP 2
 
+After some feedback was received from MVP 1, I made many changes, fixes, and design improvements. Players are no longer killed by water and light (maybe some future things like spikes will do this). Players were also redesigned to replace mirrors and wall blocks. Players can swim in water, and are able to push sand, allowing for lots of interesting and intuitive edge cases and mechanics.
+
+**TO BE RELEASED SOON**
+
 #### MVP 1
 
-A new take on replacing life points. This version changes the concept of the player into a standard game entity, allowing for any number of players. Kept the color states from MVP 0.5.
+A new take on replacing life points. This version changes the concept of the player into a standard game entity, allowing for any number of players. Kept the color states from MVP 0.5. Added sand/water as the new terrains. Water and light "kill" players, turning them into ghosts. Ghosts can only interact with other ghosts.
+
+The other significant change in this version were the dynamic rule blocks. Whenever a rule block is hit with a beam of light, it changes the rules of all entities with the same color.
 
 #### MVP 0.5
 
@@ -24,7 +30,7 @@ MVP 0.5 was never released. It featured a snake player with food mechanics, and 
 
 #### MVP 0
 
-Formerly known as "super secret demo". Features life points, colors, light beams, and bidirectional time travel.
+Formerly known as "super secret demo". Features life points, colors, light beams, and bidirectional time travel. Compressed down the levels to just the more difficult and interesting ones.
 
 ## Project Square
 
