@@ -8,9 +8,13 @@ permalink: /games/
 
 2019+
 
-- Toroidal sokoban game. This is my first game for sale.
+- Toroidal sokoban game.
 - **[Main Website](https://toroban.com/)**
 - Target release date: 2021-03-14
+
+#### MVP 3
+
+Overworld
 
 #### MVP 2
 
