@@ -6,7 +6,7 @@ permalink: /games/
 
 Here are some games I've made/currently working on.
 
----
+<br>
 
 ## Toroban
 
@@ -14,13 +14,17 @@ Here are some games I've made/currently working on.
 
 -   Toroidal sokoban game.
 -   **[Main Website](https://toroban.com/)**
--   Target release date: 2021-03-14
+-   Optimistic release date: 2021-03-14
 
-#### Demo 3
+<br>
 
-WIP: Creating an overworld to organize all the levels non-linearly.
+## Toroban: Demo 3
 
-#### Demo 2
+WIP: Creating an overworld to organize all the levels non-linearly. Visual improvements and new sprites to make things more intuitive.
+
+<br>
+
+## Toroban: Demo 2
 
 2020-06-24
 
@@ -30,7 +34,9 @@ After some feedback was received from Demo 1, I made many changes, fixes, and de
 
 **[Play here](https://toroban.com/demo2/)**
 
-#### Demo 1
+<br>
+
+## Toroban: Demo 1
 
 2020-04-14
 
@@ -42,11 +48,15 @@ The other significant change in this version were the dynamic rule blocks. Whene
 
 **[Play here](https://toroban.com/demo/)**
 
-#### Demo 0.5
+<br>
+
+## Toroban: Demo 0.5
 
 Demo 0.5 was never released. It featured a snake player with food mechanics, and different colored players that would follow each other. The motivation behind MVP 0.5 was to replace the "artificially" added life points mechanic, with a mechanic that could be represented naturally with game state. I ended up not going with this idea because it was difficult to polish, and did not result in interesting puzzles, without adding various other Z-dimension mechanics.
 
-#### Demo 0
+<br>
+
+## Toroban: Demo 0
 
 2019-11-04
 
@@ -56,16 +66,19 @@ Formerly known as "super secret demo". Features life points, colors, light beams
 
 **[Play here](https://toroban.com/super_secret_demo/)**
 
----
+<br>
 
 ## Project Square
 
-2016-2018
+2016 -- 2018
 
 -   A collection of puzzle game prototypes
 -   Written in JavaScript ES6 with Pixi.js
+-   Later renamed to Toroban
 
-#### Toroidal + colors + lasers + mirrors + offset block (bulldozer theme)
+<br>
+
+## Project Square: Toroidal + colors + lasers + mirrors + offset block (bulldozer theme)
 
 2018-06-10
 
@@ -73,25 +86,31 @@ First version with lasers and mirrors. Brought back color mechanics inspired by 
 
 Removed the overworld temporarily to improve performance on mobile devices (and other slower devices). This introduced the linear level switching. Note there are a lack of time travel levels here, this because there was still only a "rewind" function without an undo, and I deemed time travel too buggy and unstable to actually be used anymore.
 
-**[Play here](https://ayebear.com/project-square/wip)**
+**[Play here]({{ site.url }}/project-square/wip/)**
 
-#### Toroidal + time + block + bridge (zombie theme)
+<br>
+
+## Project Square: Toroidal + time + block + bridge (zombie theme)
 
 2018-01-26
 
 Different theme, more levels. Possibly more edge cases handled with time travel. Looks like I started to add some gardening mechanics, but didn't go this route.
 
-**[Play here](https://ayebear.com/project-square/toroidal-sokoban)**
+**[Play here]({{ site.url }}/project-square/toroidal-sokoban/)**
 
-#### Toroidal + time + block + bridge (nature theme)
+<br>
+
+## Project Square: Toroidal + time + block + bridge (nature theme)
 
 2017-08-19
 
 The first toroidal version! This worked perfectly in 2D, to easily fill the screen/scale to any screen size, and a trippy way to represent wrapping around the edges. Improved time mechanics (time immune blocks), added bridges, and had basic single-color goal blocks.
 
-**[Play here](https://ayebear.com/project-square/toroidal)**
+**[Play here]({{ site.url }}/project-square/toroidal/)**
 
-#### Transport (complex vehicles) + time travel
+<br>
+
+## Project Square: Transport (complex vehicles) + time travel
 
 2017-03-19
 
@@ -101,43 +120,59 @@ Removed the requirement to use vehicles to deliver packages. The vehicles are re
 
 First version with time travel, before all the big time travel bugs were fixed, and before undo and time travel were separated.
 
-**[Play here](https://ayebear.com/project-square/transport-time)**
+**[Play here]({{ site.url }}/project-square/transport-time/)**
 
-#### Transport (simple vehicles)
+<br>
+
+## Project Square: Transport (simple vehicles)
 
 2017-02-23
 
 This had an actual theme, using vehicles to deliver packages. These were nice mechanics, but difficulty was just medium and fell flat after ~20 levels.
 
-**[Play here](https://ayebear.com/project-square/transport)**
+**[Play here]({{ site.url }}/project-square/transport/)**
 
-#### Player cloning + colors
+<br>
+
+## Project Square: Player cloning + colors
 
 2016-12-29
 
 First and last version to have pixel-level movement. Too finicky for a precise puzzle game. There were some interesting puzzles though. You could clone and swap to your clones using the same action button.
 
-**[Play here](https://ayebear.com/project-square/cloning-new)**
+**[Play here]({{ site.url }}/project-square/cloning-new/)**
 
-#### Player cloning
+<br>
+
+## Project Square: Player cloning
+
+2016
 
 I think this version is broken or missing levels, but the intent was probably to allow cloning the player.
 
-**[Play here](https://ayebear.com/project-square/cloning-old)**
+**[Play here]({{ site.url }}/project-square/cloning-old/)**
 
-#### World rotation
+<br>
 
-Replaced layer switching with a toggle to rotate the world 90 degrees on its side. This would allow you to see all the layers of the world, and could travel up/down this way. Again, this was more interesting to me, but was completely unintuitive due to the way it was rendered, and lack of animations.
+## Project Square: World rotation
 
-**[Play here](https://ayebear.com/project-square/rotation)**
+2016
 
-#### Layer switching (v1)
+Replaced layer switching with a toggle to rotate the world 90 degrees on its side. This would allow you to see all the layers of the world, and could travel up/down this way. This was more interesting to me than layer switching, but was completely un-intuitive due to the way it was rendered, and lack of animations.
+
+**[Play here]({{ site.url }}/project-square/rotation/)**
+
+<br>
+
+## Project Square: Layer switching (v1)
+
+2016
 
 First version of Project Square. Wanted to finish a puzzle game after seeing some old aMAZEd stuff. This features a 3D world represented in 2D. You can switch between layers by going up/down floors. Also has some early color mixing mechanics. The player is just a simple square that stores a color state. The layer switching sprites should have been holes & ladders to be more intuitive. There was some lack of difficulty in these puzzles, which drove me to make more versions to find more challenging mechanics. But, overall this was a good version.
 
-**[Play here](https://ayebear.com/project-square/layers)**
+**[Play here]({{ site.url }}/project-square/layers/)**
 
----
+<br>
 
 ## You Are The Virus
 
@@ -150,11 +185,11 @@ First version of Project Square. Wanted to finish a puzzle game after seeing som
 
 ![You Are The Virus - ongoing war]({{ site.url }}/data/you_are_the_virus.png)
 
----
+<br>
 
 ## Multiversal
 
-2014-2015
+2014 -- 2015
 
 -   A puzzle platformer game where the goal is to reach the end of each level.
 -   You can do this by solving various puzzles using a "window" into an alternate dimension.
@@ -165,11 +200,11 @@ First version of Project Square. Wanted to finish a puzzle game after seeing som
 
 ![Multiversal - level 1]({{ site.url }}/data/Multiversal-v0.3.0-alpha-level1.png)
 
----
+<br>
 
 ## Undead MMO
 
-2013-2014
+2013 -- 2014
 
 -   A multi-player online zombie survival game, started with some friends. Their websites are:
     -   [http://compilelogic.com/](http://compilelogic.com/)
@@ -182,11 +217,11 @@ First version of Project Square. Wanted to finish a puzzle game after seeing som
 
 ![Undead MMO]({{ site.url }}/data/undead_mmo.jpg)
 
----
+<br>
 
 ## aMAZEd
 
-2012-2013
+2012 -- 2013
 
 -   A puzzle game where the player uses various items to manipulate the world, to reach the end of the levels.
 -   Written in C++ with SFML
@@ -194,7 +229,7 @@ First version of Project Square. Wanted to finish a puzzle game after seeing som
 
 ![aMAZEd](http://i.imgur.com/jG453Hb.gif)
 
----
+<br>
 
 ## Avalanche
 
