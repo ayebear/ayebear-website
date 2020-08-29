@@ -4,6 +4,10 @@ title: Games
 permalink: /games/
 ---
 
+Here are some games I've made/currently working on.
+
+---
+
 ## Toroban
 
 2019+
@@ -12,29 +16,36 @@ permalink: /games/
 - **[Main Website](https://toroban.com/)**
 - Target release date: 2021-03-14
 
-#### MVP 3
+#### Demo 3
 
-Overworld
+WIP: Creating an overworld to organize all the levels non-linearly.
 
-#### MVP 2
+#### Demo 2
 
-After some feedback was received from MVP 1, I made many changes, fixes, and design improvements. Players are no longer killed by water and light (maybe some future things like spikes will do this). Players were also redesigned to replace mirrors and wall blocks. Players can swim in water, and are able to push sand, allowing for lots of interesting and intuitive edge cases and mechanics.
+After some feedback was received from Demo 1, I made many changes, fixes, and design improvements. Players are no longer killed by water and light (maybe some future things like spikes will do this). Players were also redesigned to replace mirrors and wall blocks. Players can swim in water, and are able to push sand, allowing for lots of interesting and intuitive edge cases and mechanics.
 
-**TO BE RELEASED SOON**
+[![Toroban Demo 2]({{ site.url }}/data/demo2.gif)](https://toroban.com/demo2/)
 
-#### MVP 1
 
-A new take on replacing life points. This version changes the concept of the player into a standard game entity, allowing for any number of players. Kept the color states from MVP 0.5. Added sand/water as the new terrains. Water and light "kill" players, turning them into ghosts. Ghosts can only interact with other ghosts.
+#### Demo 1
+
+A new take on replacing life points. This version changes the concept of the player into a standard game entity, allowing for any number of players. Kept the color states from Demo 0.5. Added sand/water as the new terrains. Water and light "kill" players, turning them into ghosts. Ghosts can only interact with other ghosts.
 
 The other significant change in this version were the dynamic rule blocks. Whenever a rule block is hit with a beam of light, it changes the rules of all entities with the same color.
 
-#### MVP 0.5
+[![Toroban Demo 1]({{ site.url }}/data/demo1.gif)](https://toroban.com/demo/)
 
-MVP 0.5 was never released. It featured a snake player with food mechanics, and different colored players that would follow each other. The motivation behind MVP 0.5 was to replace the "artificially" added life points mechanic, with a mechanic that could be represented naturally with game state. I ended up not going with this idea because it was difficult to polish, and did not result in interesting puzzles, without adding various other Z-dimension mechanics.
+#### Demo 0.5
 
-#### MVP 0
+Demo 0.5 was never released. It featured a snake player with food mechanics, and different colored players that would follow each other. The motivation behind MVP 0.5 was to replace the "artificially" added life points mechanic, with a mechanic that could be represented naturally with game state. I ended up not going with this idea because it was difficult to polish, and did not result in interesting puzzles, without adding various other Z-dimension mechanics.
 
-Formerly known as "super secret demo". Features life points, colors, light beams, and bidirectional time travel. Compressed down the levels to just the more difficult and interesting ones.
+#### Demo 0
+
+Formerly known as "super secret demo". Features life points, colors, light beams, and bidirectional time travel. Condensed down the levels to just the more difficult and interesting ones.
+
+[![Toroban Demo 0]({{ site.url }}/data/super_secret_demo.gif)](https://toroban.com/super_secret_demo/)
+
+---
 
 ## Project Square
 
@@ -72,6 +83,8 @@ Replaced layer switching with a toggle to rotate the world 90 degrees on its sid
 
 First version of Project Square. Wanted to finish a puzzle game after seeing some old aMAZEd stuff. This features a 3D world represented in 2D. You can switch between layers by going up/down floors. Also has some early color mixing mechanics. The player is just a simple square that stores a color state. The layer switching sprites should have been holes & ladders to be more intuitive. There was some lack of difficulty in these puzzles, which drove me to make more versions to find more challenging mechanics. But, overall this was a good version.
 
+---
+
 ## You Are The Virus
 
 2015
@@ -82,6 +95,8 @@ First version of Project Square. Wanted to finish a puzzle game after seeing som
 - [Download here](https://github.com/ayebear/you-are-the-virus/releases)
 
 ![You Are The Virus - ongoing war]({{ site.url }}/data/you_are_the_virus.png)
+
+---
 
 ## Multiversal
 
@@ -95,6 +110,8 @@ First version of Project Square. Wanted to finish a puzzle game after seeing som
 - [Download here](https://github.com/ayebear/multiversal/releases)
 
 ![Multiversal - level 1]({{ site.url }}/data/Multiversal-v0.3.0-alpha-level1.png)
+
+---
 
 ## Undead MMO
 
@@ -111,6 +128,8 @@ First version of Project Square. Wanted to finish a puzzle game after seeing som
 
 ![Undead MMO]({{ site.url }}/data/undead_mmo.jpg)
 
+---
+
 ## aMAZEd
 
 2012-2013
@@ -120,6 +139,8 @@ First version of Project Square. Wanted to finish a puzzle game after seeing som
 - [Click here for a playthrough video](https://www.youtube.com/watch?v=NCFSuIPlOUI)
 
 ![aMAZEd](http://i.imgur.com/jG453Hb.gif)
+
+---
 
 ## Avalanche
 
