@@ -60,7 +60,7 @@ Demo 0.5 was never released. It featured a snake player with food mechanics, and
 
 2019-11-04
 
-Formerly known as "super secret demo". Features life points, colors, light beams, and bidirectional time travel. Condensed down the levels to just the more difficult and interesting ones. Breakthroughs were made with time travel, and it was working so well since the previous version of Project Square. I was finally able to continue making time travel levels. The four user inputs were introduced: undo/redo, rewind/un-rewind.
+Formerly known as "super secret demo". Features life points, colors, light beams, and bidirectional time travel. Condensed down the levels to just the more difficult and interesting ones. Breakthroughs were made with time travel, and it was working so well compared to the previous version of the game. I was finally able to continue making time travel levels. The four user inputs were introduced: undo/redo, rewind/un-rewind.
 
 <!-- [![Toroban Demo 0]({{ site.url }}/data/super_secret_demo.gif)](https://toroban.com/super_secret_demo/) -->
 
