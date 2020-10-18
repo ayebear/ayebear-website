@@ -20,7 +20,7 @@ Here are some games I've made/currently working on.
 
 ## Toroban: Demo 3
 
-WIP: Creating an overworld to organize all the levels non-linearly. Visual improvements and new sprites to make things more intuitive.
+WIP: Finalizing game design, but pushing overworld design and changes to demo 4. There are many more tweaks and mechanics inclusion from previous versions. Rule blocks are also going away (see [posts](https://ayebear.com/gamedev/2020/10/17/toroban.html) about this).
 
 <br>
 
