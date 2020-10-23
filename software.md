@@ -56,7 +56,7 @@ Here are some programs and libraries I've made.
 #### Old Programs
 
 -   Here are a collection of AutoIt programs that I wrote many years ago before I knew anything about proper programming practices.
--   [Download here](https://dl.dropboxusercontent.com/u/10528991/downloads/AutoIt%20Programs.7z)
+-   [Download here](/downloads/AutoIt_Programs.7z)
 
 <br>
 
