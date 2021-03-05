@@ -20,7 +20,13 @@ Here are some games I've made/currently working on.
 
 ## Toroban: Demo 3
 
-WIP: Finalizing game design, but pushing overworld design and changes to demo 4. There are many more tweaks and mechanics inclusion from previous versions. Rule blocks are also going away (see [posts](https://ayebear.com/gamedev/2020/10/17/toroban.html) about this).
+2021-03-05
+
+This will be the last free demo before the Steam early-access release. This one has many mechanics from previous versions, but reworked in simpler ways.
+
+<!-- [![Toroban Demo 3]({{ site.url }}/data/demo3.gif)](https://toroban.com/demo3/) -->
+
+**[Play here](https://toroban.com/demo3/)**
 
 <br>
 
