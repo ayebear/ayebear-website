@@ -10,11 +10,9 @@ Here are some games I've made/currently working on.
 
 ## Toroban
 
-2019+
-
--   Toroidal sokoban game.
+-   Wrapping sokoban game with time travel.
 -   **[Main Website](https://toroban.com/)**
--   Optimistic release date: 2021-03-14
+-   Steam Early Access in late 2021
 
 <br>
 
