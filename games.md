@@ -11,7 +11,6 @@ Here are some games I've made/currently working on.
 ## Toroban
 
 -   Wrapping sokoban game with time travel
--   Steam Early Access in late 2021
 -   **[Main Website](https://toroban.com/)**
 
 <br>
