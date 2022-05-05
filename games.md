@@ -10,7 +10,9 @@ Here are some games I've made/currently working on.
 
 ## Toroban
 
--   Wrapping sokoban game with time travel
+2019 -- Present
+
+-   Toroidal Sokoban
 -   **[Main Website](https://toroban.com/)**
 
 <br>
