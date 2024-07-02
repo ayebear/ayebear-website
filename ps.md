@@ -13,7 +13,7 @@ First version with lasers and mirrors. Brought back color mechanics inspired by 
 
 Removed the overworld temporarily to improve performance on mobile devices (and other slower devices). This introduced the linear level switching. Note there are a lack of time travel levels here, this because there was still only a "rewind" function without an undo, and I deemed time travel too buggy and unstable to actually be used anymore.
 
-**[Play here]({{ site.url }}/project-square/wip/)**
+**[Play here](https://ayebear.com/project-square/wip/)**
 
 <br>
 
@@ -23,7 +23,7 @@ Removed the overworld temporarily to improve performance on mobile devices (and 
 
 Different theme, more levels. Possibly more edge cases handled with time travel. Looks like I started to add some gardening mechanics, but didn't go this route.
 
-**[Play here]({{ site.url }}/project-square/toroidal-sokoban/)**
+**[Play here](https://ayebear.com/project-square/toroidal-sokoban/)**
 
 <br>
 
@@ -33,7 +33,7 @@ Different theme, more levels. Possibly more edge cases handled with time travel.
 
 The first toroidal version! This worked perfectly in 2D, to easily fill the screen/scale to any screen size, and a trippy way to represent wrapping around the edges. Improved time mechanics (time immune blocks), added bridges, and had basic single-color goal blocks.
 
-**[Play here]({{ site.url }}/project-square/toroidal/)**
+**[Play here](https://ayebear.com/project-square/toroidal/)**
 
 <br>
 
@@ -47,7 +47,7 @@ Removed the requirement to use vehicles to deliver packages. The vehicles are re
 
 First version with time travel, before all the big time travel bugs were fixed, and before undo and time travel were separated.
 
-**[Play here]({{ site.url }}/project-square/transport-time/)**
+**[Play here](https://ayebear.com/project-square/transport-time/)**
 
 <br>
 
@@ -57,7 +57,7 @@ First version with time travel, before all the big time travel bugs were fixed, 
 
 This had an actual theme, using vehicles to deliver packages. These were nice mechanics, but difficulty was just medium and fell flat after ~20 levels.
 
-**[Play here]({{ site.url }}/project-square/transport/)**
+**[Play here](https://ayebear.com/project-square/transport/)**
 
 <br>
 
@@ -67,7 +67,7 @@ This had an actual theme, using vehicles to deliver packages. These were nice me
 
 First and last version to have pixel-level movement. Too finicky for a precise puzzle game. There were some interesting puzzles though. You could clone and swap to your clones using the same action button.
 
-**[Play here]({{ site.url }}/project-square/cloning-new/)**
+**[Play here](https://ayebear.com/project-square/cloning-new/)**
 
 <br>
 
@@ -77,7 +77,7 @@ First and last version to have pixel-level movement. Too finicky for a precise p
 
 I think this version is broken or missing levels, but the intent was probably to allow cloning the player.
 
-**[Play here]({{ site.url }}/project-square/cloning-old/)**
+**[Play here](https://ayebear.com/project-square/cloning-old/)**
 
 <br>
 
@@ -87,7 +87,7 @@ I think this version is broken or missing levels, but the intent was probably to
 
 Replaced layer switching with a toggle to rotate the world 90 degrees on its side. This would allow you to see all the layers of the world, and could travel up/down this way. This was more interesting to me than layer switching, but was completely un-intuitive due to the way it was rendered, and lack of animations.
 
-**[Play here]({{ site.url }}/project-square/rotation/)**
+**[Play here](https://ayebear.com/project-square/rotation/)**
 
 <br>
 
@@ -97,6 +97,6 @@ Replaced layer switching with a toggle to rotate the world 90 degrees on its sid
 
 First version of Project Square. Wanted to finish a puzzle game after seeing some old aMAZEd stuff. This features a 3D world represented in 2D. You can switch between layers by going up/down floors. Also has some early color mixing mechanics. The player is just a simple square that stores a color state. The layer switching sprites should have been holes & ladders to be more intuitive. There was some lack of difficulty in these puzzles, which drove me to make more versions to find more challenging mechanics. But, overall this was a good version.
 
-**[Play here]({{ site.url }}/project-square/layers/)**
+**[Play here](https://ayebear.com/project-square/layers/)**
 
 <br>
