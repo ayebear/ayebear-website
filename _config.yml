@@ -2,7 +2,7 @@
 title: Development Blog
 description: > # this means to ignore newlines until "baseurl:"
   A site where I show the progress of applications and games that I am currently developing.
-baseurl: "/old-blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/old-blog" # the subpath of your site, e.g. /blog/
 url: "https://ayebear.com" # the base hostname & protocol for your site
 github_username: ayebear
 
